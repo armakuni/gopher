@@ -1,0 +1,25 @@
+{
+  "name": "gopher",
+  "version": "1.0.0",
+  "description": "Gopher bot for slack (back-end Google Cloud Function)",
+  "engines": {
+  	"node": ">=16.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armakuni/gopher.git"
+  },
+  "author": "AK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armakuni/gopher/issues"
+  },
+  "homepage": "https://github.com/armakuni/gopher#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
